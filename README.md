@@ -10,7 +10,7 @@ this is an simple example to send and recive SMS using Node, Twilio, Mongodb, an
 # Installation
 clone the repo
 ```shell
-git clone https://github.com/FaztTech/sms-node
+git clone https://github.com/alaanmdq1/sms-node
 cd sms-node
 ```
 create a file with the name `.env` in the root project with the following Environment variables:
